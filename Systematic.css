@@ -1,0 +1,87 @@
+.color {
+  color: rgb(186, 46, 31);
+}
+.bg_brand_color {
+  background-color: rgb(186, 46, 31);
+}
+.Radious_right {
+  border-radius: 50px 0 0 50px;
+}
+.Radious_left {
+  border-radius: 0 50px 50px 0;
+}
+.small-caps {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-variant: small-caps;
+}
+
+.Decoration ul li {
+  list-style: none;
+  float: left;
+}
+.Decoration ul li a {
+  margin: 14px 4px;
+  padding: 5px 8px;
+  background-color: rgb(51 51 51);
+  border-radius: 50%;
+  color: rgb(255, 255, 255);
+  font-size: 26px;
+  display: inline-block;
+}
+.Decoration ul li a:hover {
+  background-color: rgb(236 128 48);
+  font-size: 30px;
+}
+.Navbar a:hover {
+  color: rgb(186, 46, 31);
+}
+.ptl_150px {
+  padding: 150px 0 0 40px;
+}
+@media screen and (max-width: 720px) {
+  .ptl_150px {
+    padding: 0 0 0 0;
+  }
+}
+.bgbody {
+  background-color: rgb(242 242 242);
+}
+.readMore {
+  float: right;
+  text-decoration: none;
+}
+.qoutation {
+  color: rgb(212 212 212);
+}
+.top_100px {
+  margin-top: -30px;
+}
+.qoutation_bg {
+  background-color: rgb(242, 242, 242);
+}
+.pr-4 {
+  padding-right: 40px;
+}
+.navbar_radious {
+  border-radius: 8px 8px 8px 8px;
+}
+.bh:hover {
+  color: rgb(186, 46, 31);
+}
+.anchor_text_decoration {
+  text-decoration: none;
+  color: rgb(186, 46, 31);
+}
+.pr-10 {
+  padding-right: 10px;
+}
+.td_none {
+  text-decoration: none;
+  color: rgb(108, 117, 125);
+}
+.pr-100 {
+  padding-right: 25px;
+}
+.font {
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
